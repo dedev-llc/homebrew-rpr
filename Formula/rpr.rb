@@ -13,8 +13,8 @@ class Rpr < Formula
   #   3. Run: brew fetch --build-from-source Formula/rpr.rb
   #      (or: curl -sL <that-url> | shasum -a 256)
   #   4. Paste the sha256 below
-  url "https://files.pythonhosted.org/packages/c8/c0/0f08704a4ac4e87a704f88b4b12637df399cf95292cbd8de410b4a3e3986/rpr-0.1.4.tar.gz"
-  sha256 "9a91b92d222370e29e2bc61ecce70338e191842089780d522943dc353b7cceab"
+  url "https://files.pythonhosted.org/packages/cb/d1/0b3eb2e74c61e6ede8a86049ed41ac70b54f5381b9df2a8bbaabe4ca1331/rpr-0.1.5.tar.gz"
+  sha256 "3e0a95dc3c69d0eda70b10c7a7dc7682e988d4bede830d10eb55dbda66969ed1"
   license "MIT"
 
   depends_on "gh"
